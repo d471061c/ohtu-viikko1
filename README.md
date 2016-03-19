@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/mluukkai/ohtutesti16.svg?branch=master)](https://travis-ci.org/mluukkai/ohtutesti16)
+https://travis-ci.com/d471061c/ohtu-viikko1.svg?token=PpPG6E41hQUswijngVsA&branch=master
